@@ -1,0 +1,7 @@
+{
+  "name": "SAFAR - Kotlin-Based Travel Booking Platform",
+  "description": "A high-fidelity architectural prototype and management console for SAFAR, a production-ready travel booking platform built with Kotlin Microservices, Compose Multiplatform, and Spring Boot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
